@@ -29,13 +29,13 @@ sudo nano MaxcoinPrice.py
 ```
 
 Go down to where it says in the file
-
+```
 ## Setting these as variables will make them easier for future edits
 app_key =  ''
 app_secret = ''
 oauth_token = ''
 oauth_token_secret = ''
-
+```
 and add your keys in there
 
 

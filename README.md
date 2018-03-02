@@ -1,2 +1,7 @@
 # Maxcoin-Twitter-Bots
-Maxcoin Twitter Bots Written In Python
+
+
+[Linux Example]
+
+
+

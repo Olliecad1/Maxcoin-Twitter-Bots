@@ -39,4 +39,16 @@ oauth_token_secret = ''
 and add your keys in there
 
 
+## Step 4
+
+
+Run the script
+
+```
+sudo python MaxcoinPrice.py
+```
+
+
+
+
 
